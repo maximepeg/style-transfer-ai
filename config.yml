@@ -1,0 +1,5 @@
+nb_layer: 10
+nb_channel: 128
+
+image_channel: 3
+size: 400
